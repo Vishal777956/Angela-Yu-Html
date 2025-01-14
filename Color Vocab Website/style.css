@@ -1,0 +1,40 @@
+.box1 {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  border: 1px solid white;
+}
+.box1-txt {
+  color: red;
+}
+
+.box2 {
+  height: 200px;
+  width: 200px;
+  background-color: rgb(0, 203, 230);
+  border: 1px solid white;
+}
+.box2-txt {
+  color: rgb(0, 203, 230);
+}
+
+
+.box3 {
+  height: 200px;
+  width: 200px;
+  background-color: rgb(253, 162, 4);
+  border: 1px solid white;
+}
+.box3-txt {
+  color:  rgb(253, 162, 4);
+}
+
+.box4 {
+  height: 200px;
+  width: 200px;
+  background-color: rgb(123, 255, 0);
+  border: 1px solid white;
+}
+.box4-txt {
+  color:   rgb(123, 255, 0);
+}
